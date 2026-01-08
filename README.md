@@ -48,9 +48,5 @@ I believe impactful analytics goes beyond numbers — it must be **accurate, int
 
 ---
 
-### 📈 GitHub Stats
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)](https://github.com/Daniel-Godfrey/)
-
----
 
 **Let’s turn data into decisions that matter.** 🚀  
