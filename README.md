@@ -43,7 +43,7 @@ I believe impactful analytics goes beyond numbers — it must be **accurate, int
 ---
 
 ### 🤝 Connect With Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/daniel-godfrey-u/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/daniel-godfrey-u/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talk2danielgodfrey@gmail.com)
 
 ---
